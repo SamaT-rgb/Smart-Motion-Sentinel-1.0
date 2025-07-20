@@ -30,10 +30,10 @@ Displays motion detection count and area status on OLED.
 ## 🖼️ Project Images
 
 ### India Space Lab Logo
-![India Space Lab Logo](In)
+![India Space Lab Logo](India_space.png)
 
 ### ESP32 Microcontroller Circuit
-![ESP32 Motion Detection Circuit](images/ESP32.png)
+![ESP32 Motion Detection Circuit](ESP32.png)
 
 ---
 
