@@ -27,7 +27,7 @@ Displays motion detection count and area status on OLED.
 
 ---
 
-## 🖼️ Project Images
+## 🖼 Project Images
 
 ### India Space Lab Logo
 ![India Space Lab Logo](India_space.png)
