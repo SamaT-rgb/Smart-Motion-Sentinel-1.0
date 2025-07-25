@@ -4,7 +4,7 @@ An IoT-based motion detection system built using ESP32, PIR sensor, OLED, LED, a
 
 ---
 
-## 🔧 Features
+##  Features
 - Real-time motion detection
 - OLED display for live status and event count
 - Buzzer and LED alerts
