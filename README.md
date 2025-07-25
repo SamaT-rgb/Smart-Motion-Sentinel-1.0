@@ -1,4 +1,4 @@
-# Smart Motion Sentinel 1.0 🚨📟
+# Smart Motion Sentinel 1.0 📟
 
 An IoT-based motion detection system built using ESP32, PIR sensor, OLED, LED, and Buzzer.
 
