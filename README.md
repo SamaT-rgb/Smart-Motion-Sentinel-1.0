@@ -22,7 +22,7 @@ An IoT-based motion detection system built using ESP32, PIR sensor, OLED, LED, a
 
 ---
 
-## 📷 Output
+##  Output
 Displays motion detection count and area status on OLED.
 
 ---
