@@ -38,4 +38,4 @@ Displays motion detection count and area status on OLED.
 ---
 
 ##  Report
-The full LaTeX project report is inside the [`report/`](Report.pdf) folder.
+The full LaTeX project report is inside the [`report/`](ISL_Report_S.pdf) folder.
