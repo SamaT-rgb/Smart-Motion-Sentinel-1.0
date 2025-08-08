@@ -2,6 +2,9 @@
 
 An IoT-based motion detection system built using ESP32, PIR sensor, OLED, LED, and Buzzer.
 
+### Video with explanation 
+!['Video'](https://drive.google.com/file/d/1yFLwG0mHjAwY3ttmnl5KQGdi-xZq_MUj/view?usp=drive_link)
+
 ---
 
 ##  Features
@@ -38,4 +41,4 @@ Displays motion detection count and area status on OLED.
 ---
 
 ##  Report
-The full LaTeX project report is inside the [`report/`](ISL_Report_S.pdf) folder.
+The full LaTeX project report is inside the [`report`](ISL_Report_S.pdf) folder.
