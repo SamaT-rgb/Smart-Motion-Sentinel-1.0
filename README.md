@@ -2,7 +2,7 @@
 
 An IoT-based motion detection system built using ESP32, PIR sensor, OLED, LED, and Buzzer.
 
-### Video with explanation 
+# Video with explanation 
 !['Video'](https://drive.google.com/file/d/1yFLwG0mHjAwY3ttmnl5KQGdi-xZq_MUj/view?usp=drive_link)
 
 ---
